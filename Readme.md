@@ -8,4 +8,4 @@ The inference_script.py can be then used to deploy the following model as a serv
 
 Then the ml model and inference script is then dockerised and push into dockerhub and then pulled in the yaml file
 
-performance.py is the python script to test the deployed model's performance using the Kserve REST API.
+performance.py is the python script to test the deployed model's performance using the Kserve REST API.(make sure you edit the endpoint URL with your enpoint URL)
