@@ -1,3 +1,5 @@
+#This is the inference script for the give ml model to deploy it using Kserve as a serverless model on Kubeflow
+
 import numpy as np
 from flask import Flask, request, jsonify
 from sklearn.svm import SVC
