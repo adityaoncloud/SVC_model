@@ -1,0 +1,9 @@
+apiVersion: "serving.kserve.io/v1beta1"
+kind: "InferenceService"
+metadata:
+  name: "my-model"
+spec:
+  predictor:
+    containers:
+      - image: "aditya252003/svc:v2"
+                                                                                                                              
