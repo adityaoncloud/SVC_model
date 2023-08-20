@@ -1,3 +1,5 @@
+#This is svc model for IRIS dataset available on sklearn library
+
 import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.datasets import load_iris
