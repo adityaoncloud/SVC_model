@@ -1,4 +1,4 @@
-This repository is built for the deployment of machine learning model on Kubeflow as a part of MLOPS architecture.
+This repository is built for the deployment of machine learning model on Kubeflow as a part of MLOPS architecture.(Please refer to SETUP for a complete overview and step-by-step guide. )
 
 code.py is the ml model built on the iris dataset available in sklearn library.
 
