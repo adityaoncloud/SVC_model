@@ -10,7 +10,7 @@ endpoint_url = "http://my-model-predictor-default.default.10.64.140.43.nip.io"
 
 # Sample input data for testing
 sample_input = {
-    "data": [1.0, 2.0, 3.0, 4.0]
+    "data": ['sample data expected by the model']
 }
 
 # Send a POST request to the endpoint with the sample input
