@@ -1,3 +1,5 @@
+#This is a Python script to test the deployed model's performance using the Kserve REST API.
+
 import requests
 import json
 
